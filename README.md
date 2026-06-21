@@ -113,7 +113,6 @@ arabic-comparative-opinion-mining/
 │
 ├── app.py
 ├── requirements.txt
-├── requirements-api.txt
 ├── Dockerfile
 ├── README.md
 │
